@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ezaz-theta
 - 👀 I’m interested in Cloud Computing ☁
-- 🌱 I’m currently learning Everything 
+- 🌱 I’m currently learning Everything 😉
 
 <!---
 Ezaz-theta/Ezaz-theta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
